@@ -2,7 +2,7 @@
 
 
 
-# Nombre del curso
+# BIAN Foundation
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **nombre**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **BIAN Foundation**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 
 
@@ -22,11 +22,11 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 1. Nombre de la práctica](CHAPTER_01/ch01-investment-portfolio/README.md) 
+### [Práctica 1. Realizar una reflexión guiada sobre desafíos actuales y cómo BIAN podría convertirse en el “mapa” para ordenar y acelerar la transformación](Capitulo01/FundamentosBIAN_Practica01.docx) 
 
-  - **Descripción**: xxx.
+  - **Descripción**: En esta práctica, los participantes realizarán una reflexión guiada y estructurada sobre desafíos clave que enfrentan hoy las instituciones financieras: integración, modernización, crecimiento y regulación. A través de un ejercicio breve de análisis individual y discusión colaborativa, conectarán estos retos con la misión y visión de BIAN, sus principios de arquitectura ágil, y el valor del paisaje de servicios (Service Landscape) como referencia para ordenar capacidades, reducir complejidad y habilitar una transformación progresiva.
 
-  - ⏱️ **Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 20 min.
 
 
 
