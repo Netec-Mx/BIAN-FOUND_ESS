@@ -24,8 +24,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### [Práctica 1. Realizar una reflexión guiada sobre desafíos actuales y cómo BIAN podría convertirse en el “mapa” para ordenar y acelerar la transformación](Capitulo01/README.md) 
 
-### [Plantilla de trabajo del alumno](Capitulo01/Reflexion_BIAN.docx)
-
   - **Descripción**: En esta práctica, los participantes realizarán una reflexión guiada y estructurada sobre desafíos clave que enfrentan hoy las instituciones financieras: integración, modernización, crecimiento y regulación. A través de un ejercicio breve de análisis individual y discusión colaborativa, conectarán estos retos con la misión y visión de BIAN, sus principios de arquitectura ágil, y el valor del paisaje de servicios (Service Landscape) como referencia para ordenar capacidades, reducir complejidad y habilitar una transformación progresiva.
 
   - ⏱️ **Duración estimada**: 20 min.
