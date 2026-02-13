@@ -1,6 +1,5 @@
+
 <img src="images/neteclogo (2).png" alt="logo" width="300"/>
-
-
 
 # BIAN Foundation
 
