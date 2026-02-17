@@ -6,5 +6,5 @@
 
 ## 📝 Descarga el siguiente documento
 
-### [Capitulo07/Diagnostico_Panorama_Aplicaciones_BIAN.docx](Diagnostico_Panorama_Aplicaciones_BIAN.docx)
+### [Capitulo06/Diagnostico_Panorama_Aplicaciones_BIAN.docx](Diagnostico_Panorama_Aplicaciones_BIAN.docx)
 
